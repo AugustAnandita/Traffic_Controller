@@ -13,7 +13,7 @@ A traffic controller is designed using verilog code in esim.
 * [Reference circuit]
 * [Traffic Controller Design]
 * [Verilog code]
-* [Symbol created]
+* [Model created]
 * [Waveforms]
 * [Author]
 * [Ackwedgement]
@@ -71,6 +71,9 @@ https://www.veripool.org/verilator/
 
 
 ##  Traffic controller Design
+Problem Statement- 
+Traffic controller design for a T-Intersection where we have 6 different states conditions and corresponding lights ( Red, Green, Yellow) status explained below
+
 
 
 ## Verilog Code

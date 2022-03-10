@@ -1,3 +1,4 @@
+
 # Traffic_Controller
 A traffic controller is designed using verilog code in esim.
 
@@ -73,6 +74,8 @@ https://www.veripool.org/verilator/
 ##  Traffic controller Design
 Problem Statement- 
 Traffic controller design for a T-Intersection where we have 6 different states conditions and corresponding lights ( Red, Green, Yellow) status explained below
+
+![problem statement](https://user-images.githubusercontent.com/100422485/157716102-26a713c7-08d4-4cbc-8f2d-0d7aa3bd885f.png)
 
 
 

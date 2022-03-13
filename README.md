@@ -75,7 +75,22 @@ https://www.veripool.org/verilator/
 Problem Statement- 
 Traffic controller design for a T-Intersection where we have 6 different states conditions and corresponding lights ( Red, Green, Yellow) status explained below
 
-![problem statement](https://user-images.githubusercontent.com/100422485/157716102-26a713c7-08d4-4cbc-8f2d-0d7aa3bd885f.png)
+
+
+
+
+![Untitled](https://user-images.githubusercontent.com/100422485/158073735-e8395224-9052-4ecf-bf1d-e720f730acc0.png)
+
+
+
+
+* **State Diagram**
+
+
+
+![statetable](https://user-images.githubusercontent.com/100422485/158073459-3cfb5c87-a068-4b89-8ae3-9d9a052296ee.jpg)
+
+
 
 
 
